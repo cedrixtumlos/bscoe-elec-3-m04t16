@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "M4T16",
+"dataUrl": "sample.data.unityweb",
+"asmCodeUrl": "sample.asm.code.unityweb",
+"asmMemoryUrl": "sample.asm.memory.unityweb",
+"asmFrameworkUrl": "sample.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
