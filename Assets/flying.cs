@@ -8,8 +8,8 @@ public class flying		 : MonoBehaviour {
 
 	float xThrow;
 	float yThrow;
-	public float forX = 10f;
-	public float forY = 10f;
+	public float forX = 20f;
+	public float forY =20f;
 	public float rotateX = -3f;
 	public float rotationX = -15f;
 	public float rotationY = 1f;

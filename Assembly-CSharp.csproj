@@ -51,9 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\bullets.cs" />
      <Compile Include="Assets\flying.cs" />
      <Compile Include="Assets\Splash.cs" />
      <Compile Include="Assets\Splash2.cs" />
+     <Compile Include="Assets\terraincollide.cs" />
      <Compile Include="Assets\WorldBuilder\Scripts\Heightmapbuilder.cs" />
      <Compile Include="Assets\WorldBuilder\Scripts\Helpers\Threading.cs" />
      <Compile Include="Assets\WorldBuilder\Scripts\TerrainFoliage.cs" />
